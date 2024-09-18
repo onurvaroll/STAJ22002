@@ -1,1 +1,0 @@
-enum OptionNames{recommended, popular, trending}
